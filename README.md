@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/BlessieAparanjitha/test-project-interview/_apis/build/status/Blessie7.pipelines-java?branchName=master)](https://dev.azure.com/BlessieAparanjitha/test-project-interview/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
